@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckHardwareInfo", "CheckHardwareInfo\CheckHardwareInfo.csproj", "{3AD7642F-0CF3-4AB6-9576-65FBACAE446A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckHardwareInfoTests", "CheckHardwareInfoTests\CheckHardwareInfoTests.csproj", "{FE92AAAC-80F4-4C35-9957-01DA5501BF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD7642F-0CF3-4AB6-9576-65FBACAE446A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD7642F-0CF3-4AB6-9576-65FBACAE446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD7642F-0CF3-4AB6-9576-65FBACAE446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD7642F-0CF3-4AB6-9576-65FBACAE446A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE92AAAC-80F4-4C35-9957-01DA5501BF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE92AAAC-80F4-4C35-9957-01DA5501BF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE92AAAC-80F4-4C35-9957-01DA5501BF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE92AAAC-80F4-4C35-9957-01DA5501BF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E5BD73-05DA-4C6F-AAB5-233A2B79D277}
+	EndGlobalSection
+EndGlobal
